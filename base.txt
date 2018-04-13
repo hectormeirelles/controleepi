@@ -1,0 +1,27 @@
+Bom Dia,
+ 
+Segue, em anexo, a ficha de EPI e EPC no excel.
+ 
+Os Itens de EPI é individual por funcionário e os EPC’s por equipe.
+ 
+Dados Funcionários:
+ 
+Nome:
+Data de Nascimento:
+Cpf:
+Data de Admissão:
+Função:
+ 
+Dados do Itens EPI:
+Nome:
+C.A (Certificação):
+ 
+ 
+DADOS EPC:
+Nome:
+CA:
+Placa do Veículo:
+Encarregado da Equipe:
+ 
+ 
+Queria um banco de dados para cadastro de funcionários, equipamentos, epc e equipes. Também que tivesse uma opção de impressão de toda a ficha atualizada.
